@@ -5,7 +5,6 @@
 layout: home
 ---
 
-Electric Things provides IT services and consulting. We specialize
-in all things [Ruby](https://ruby-lang.org), [Rails](https://rubyonrails.org) and
-[Redmine](https://redmine.org).
+![Nikola Tesla, with his equipment for producing high-frequency alternating currents.](/img/nikola_tesla.jpg)
 
+*Credit: Nikola Tesla, with his equipment for producing high-frequency alternating currents. [Wellcome Collection](https://wellcomecollection.org/works/sq2828s9). [Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)*
