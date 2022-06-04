@@ -21,8 +21,8 @@
 title: Electric Things Limited
 email: hi@electric-things.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Electric Things provides IT services and consulting around
-  Ruby, Rails, Redmine, IVR, Telecommunications.
+  Electric Things provides IT services and consulting. We specialize
+  in all things Ruby, Rails and Redmine.
 domain: "electricthings.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://electricthings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,8 +31,9 @@ url: "https://electricthings.github.io" # the base hostname & protocol for your 
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+markdown: GFM
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

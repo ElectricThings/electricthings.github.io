@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Electric Things provides IT services and consulting. We specialize
+in all things [Ruby](https://ruby-lang.org), [Rails](https://rubyonrails.org) and
+[Redmine](https://redmine.org).
+
