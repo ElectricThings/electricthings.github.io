@@ -21,7 +21,7 @@
 title: Electric Things Limited
 email: hi@electric-things.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Electric Things provides IT services and consulting. We specialize
+  Electric Things provides IT services, process management and consulting. We specialize
   in all things <a href="https://ruby-lang.org">Ruby</a>, <a href="https://rubyonrails.org">Rails</a> and
   <a href="https://redmine.org">Redmine</a>.
 domain: "electricthings.github.io"
